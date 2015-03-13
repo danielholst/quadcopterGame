@@ -15,3 +15,7 @@
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# DC_Store files
+.DS_Store
+*.DS_Store
